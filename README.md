@@ -46,7 +46,7 @@
 |25|web|backend|[禁止内卷](./part-3/README.md#25-禁止内卷)||4-17:31|
 |26|binary|~~reverse~~|[~~哈希三碰撞~~](./part-3/README.md#26-哈希三碰撞)|1/3|6-13:51|
 |27|math|~~search~~|[~~零知识数独~~](./part-3/README.md#27-零知识数独)|2/3|6-10:45|
-|34|AI|~~trivial~~|[~~[redacted]~~](./part-3/README.md#34-truncated)|1/2|5-02:22|
+|34|AI|~~trivial~~|[~~[redacted]~~](./part-3/README.md#34-redacted)|1/2|5-02:22|
 
 鉴于题目的 flag 往往有调侃、提示、启示等作用，每个题解都会包含我在题目中获得的 flag 以供参考。注意实际情况下，不同选手获得的 flag 可能有所不同。
 
