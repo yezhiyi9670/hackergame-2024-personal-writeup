@@ -39,7 +39,7 @@
 |14|math|trytry|[**优雅的不等式**](./part-2/README.md#14-优雅的不等式)\*|2/2|6-15:23|
 |15|general|automate|[**无法获得的秘密**](./part-3/README.md#15-无法获得的秘密)\*||5-15:41|
 |16|general|trytry|[**Docker for Everyone Plus**](./part-3/README.md#16-docker-for-everyone-plus)\*|2/2|4-16:06|
-|17|general|xp|[看不见的彼方：交换空间](./part-3/README.md#17-看不见的彼方-交换空间)|2/2|4-01:59|
+|17|general|xp|[看不见的彼方：交换空间](./part-3/README.md#17-看不见的彼方交换空间)|2/2|4-01:59|
 |20|general|search|[不太分布式的软总线](./part-3/README.md#20-不太分布式的软总线)|3/3|7-01:21|
 |22|general|search|[动画分享](./part-3/README.md#22-动画分享)|2/2|4-19:37|
 |24|math|~~math~~|[~~关灯~~](./part-3/README.md#24-关灯)|3/4|6-01:48|
